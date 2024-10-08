@@ -1,7 +1,7 @@
 ## Playing aroung with ESP32-S3
 # OS: Debian 12
 
-# In examples below PORT should be replaced with actual system device eg. /dev/ttyUSB0 or /dev/ttyACM0
+### In examples below PORT should be replaced with actual system device eg. /dev/ttyUSB0 or /dev/ttyACM0
 
 # First time:
 
